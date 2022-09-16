@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for internships or part-time opportunities
 
-- 🌱 I’m currently learning **Everything 😁 (AI, Cloud Computing, Web Development)**
+- 🌱 I’m currently learning **Everything 😁 (AI, Cloud Computing, Web Development, and more)**
 
 - 📫 How to reach me **MSU: alshaik8@msu.edu Personal: mohammad.alshaikh.me@gmail.com**
 
