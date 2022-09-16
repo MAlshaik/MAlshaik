@@ -2,6 +2,10 @@
 <h3 align="center">A Spartan software developer</h3>
 <img align = "right" alt = "Coding" width = "400" src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76117fbdb472ba67b7f2ddc7b1eaf0d1065f67381299&rid=giphy.gif&ct=g">
 
+- 🎓 I’m studying computer science at Michigan State University (Go Green!) 
+
+- 🤝 I’m looking for internships or part-time opportunities
+
 - 🌱 I’m currently learning **Everything 😁 (AI, Cloud Computing, Web Development)**
 
 - 📫 How to reach me **MSU: alshaik8@msu.edu Personal: mohammad.alshaikh.me@gmail.com**
