@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alshaikhusain</h1>
 <h3 align="center">A Spartan computer scientist</h3>
-<img align = "right" alt = "Coding" width = "400" src="https://www.pinterest.com/pin/567523990538356835/">
+<img align = "right" alt = "Coding" width = "400" src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76117fbdb472ba67b7f2ddc7b1eaf0d1065f67381299&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Everything 😁 (AI, Cloud Computing, Web Development)**
 
