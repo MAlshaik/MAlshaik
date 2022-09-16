@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **MSU: alshaik8@msu.edu Personal: mohammad.alshaikh.me@gmail.com**
 
-- ⚡ Fun fact **I have inexplainable love for eggs ¯\_🥚_/¯**
+- ⚡ Fun fact **I have inexplainable love for eggs **¯\_🥚_/¯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
