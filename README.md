@@ -1,4 +1,4 @@
-![MasterHead](https://data.whicdn.com/images/300646346/original.gif)
+![MasterHead](https://data.whicdn.com/images/300646346/original.gif](https://preview.redd.it/3qf5qhd7h4c21.png?auto=webp&s=43b690aa3be3d414522155412091259e4a7673fe)
 <h1 align="center">Hi 👋, I'm Mohammad Alshaikhusain</h1>
 <h3 align="center">A Spartan software developer</h3>
 <img align = "right" alt = "Coding" width = "400" src="https://64.media.tumblr.com/6e5bf2cc7f2574aed534af35700ac94e/tumblr_nxvwypvi0B1ufh7yno1_500.gif">
