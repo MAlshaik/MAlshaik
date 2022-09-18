@@ -1,7 +1,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5b1d88f9cc8fedb159735210/1560302563940-G6FI5ZMFI1TGQ5JP947K/ThreeOfJune_Banner01.gif?format=2500w" >
 
 
-</div>
+
 <h1 align="center">Hi 👋, I'm Mohammad Alshaikhusain</h1>
 <h3 align="center">A Spartan software developer</h3>
 <img align = "right" alt = "Coding" width = "400" src="https://64.media.tumblr.com/6e5bf2cc7f2574aed534af35700ac94e/tumblr_nxvwypvi0B1ufh7yno1_500.gif">
@@ -31,5 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malshaik&" alt="malshaik" /></p>
 
-</body>
-</html>
