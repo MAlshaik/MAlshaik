@@ -49,13 +49,6 @@
     </td>
   </tr>
   <tr>
-    <td>Full Stack Libraries</td>
-    <td>
-      <img src="https://img.shields.io/badge/React%20Testing%20Library-%23CC6699.svg?style=flat-square&logo=testing-library&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
     <td>Machine Learning Libraries</td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
