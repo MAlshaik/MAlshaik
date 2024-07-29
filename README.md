@@ -72,6 +72,12 @@
 ## 🏆 Involvment
 I am involved in multiple computer science communities.
 
+[ai_club_badge]: https://img.shields.io/badge/msu%20ai%20club-8A2BE2
+[021_bdage]: https://img.shields.io/badge/021@msu-000000
+
+[![ai_club_badge]](https:msuaiclub.com)
+[![021_badge]](https://021.builders)
+
 President of (https://msuaiclub.com)
 Member of https://021.builders
 
@@ -100,6 +106,6 @@ If your intrested in reaching out to me:
 [![linkedin_badge]](https://linkedin.com/in/malshaik)
 
 <!-- Badges -->
-[twitter_badge]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+[twitter_badge]: https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 
