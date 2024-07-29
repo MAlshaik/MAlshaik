@@ -13,9 +13,8 @@
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Haskell-%235D4F7A.svg?style=flat-square&logo=haskell&logoColor=white"/>
+      <img src="https://img.shields.io/github/go-mod/go-version/gohugoio/hugo"/>
     </td>
   </tr>
   <tr>
@@ -115,6 +114,6 @@ If you're interested in teaming up for a hackathon, feel free to reach out to me
 [![linkedin_badge]](https://linkedin.com/in/malshaik)
 
 <!-- Badges -->
-[twitter_badge]: https://img.shields.io/twitter/url
+[twitter_badge]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 
