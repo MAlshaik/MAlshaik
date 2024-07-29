@@ -69,15 +69,11 @@
   </tr>
 </table>
 
-## 🏆 Hackathon Experiences
-I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:
+## 🏆 Involvment
+I am involved in multiple computer science communities.
 
-For a detailed record of my hackathon participations and achievements, check out my profile here:
-
-[![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/IdkwhatImD0ing)
-
-- **26 Hackathon Wins**
-- **38 Hackathons Attended**
+President of (https://msuaiclub.com)
+Member of https://021.builders
 
 **Frequently Used Technologies:**
 
