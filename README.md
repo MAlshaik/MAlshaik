@@ -111,12 +111,12 @@ If you're interested in teaming up for a hackathon, feel free to reach out to me
 
 ## 👀 Check out my...
 
-[![portfolio_badge]](https://art3m1s.me/)
-[![linkedin_badge]](https://linkedin.com/in/bill-zhang1)
+[![twitter_badge]](https://x.com/MAlshaik__)
+[![linkedin_badge]](https://linkedin.com/in/malshaik)
 
-<img src="https://raw.githubusercontent.com/IdkwhatImD0ing/IdkwhatImD0ing/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MAlshaik/MAlshaik/output/snake.svg" alt="Snake animation" />
 
 <!-- Badges -->
-[portfolio_badge]: https://img.shields.io/badge/Portfolio%20Website-%230077B5.svg?style=flat-square&logo=buffer&logoColor=white
+[twitter_badge]: https://img.shields.io/x/v/x.svg
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 
