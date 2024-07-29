@@ -72,14 +72,11 @@
 ## 🏆 Involvment
 I am involved in multiple computer science communities.
 
-[ai_club_badge]: https://img.shields.io/badge/msu%20ai%20club-8A2BE2
-[021_bdage]: https://img.shields.io/badge/021@msu-000000
+[ai_club_badge]: https://img.shields.io/badge/msu%20ai%20club-blue?style=flat-square
+[021_badge]: https://img.shields.io/badge/021@msu-000000?style=flat-square
 
-[![ai_club_badge]](https:msuaiclub.com)
-[![021_badge]](https://021.builders)
-
-President of (https://msuaiclub.com)
-Member of https://021.builders
+President of [![ai_club_badge]](https://www.msuaiclub.com) <br/>
+Builder @ [![021_badge]](https://www.021.builders)
 
 **Frequently Used Technologies:**
 
