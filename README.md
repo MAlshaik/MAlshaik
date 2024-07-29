@@ -117,6 +117,6 @@ If you're interested in teaming up for a hackathon, feel free to reach out to me
 <img src="https://raw.githubusercontent.com/MAlshaik/MAlshaik/output/snake.svg" alt="Snake animation" />
 
 <!-- Badges -->
-[twitter_badge]: https://img.shields.io/x/v/x.svg
+[twitter_badge]: https://shields.io/badges/x-formerly-twitter-url
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 
